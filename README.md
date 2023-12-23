@@ -15,13 +15,13 @@ Within your Windows 10 Virtual Machine and install Wireshark
 <img width="679" alt="image" src="https://github.com/Jaxon-S/azure-network-protocols/assets/154096378/b1fe8982-ce17-4d05-9b72-a931406e45b8">
 
 <img width="368" alt="image" src="https://github.com/Jaxon-S/azure-network-protocols/assets/154096378/37d925ce-e956-41d5-bf66-bddd1bb4fa21">
-Observe ping requests and replies within WireShark
+<h1>Observe ping requests and replies within WireShark</h1>
 
 <p></p>
 <img width="612" alt="image" src="https://github.com/Jaxon-S/azure-network-protocols/assets/154096378/1548b4aa-df95-4b7e-9427-49a174babc82">
 
-<p>From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark (shown above)
-</p>
+<p><h3>From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark (shown above)
+</p></h3>
 
 
 
